@@ -112,6 +112,7 @@ InterviewWizz/
 └── .env.example                    # Local configuration template
 ```
 
+
 ---
 
 <div align="center">
